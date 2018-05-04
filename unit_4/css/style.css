@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=Courgette|Great+Vibes');
+* { margin:0; padding:0; box-sizing:border-box; }
+h1{
+	font-family: 'Courgette', cursive;
+	color: black;
+}
+h3{
+	font-family: 'Great Vibes', cursive;
+}
+p{
+	text-align: right;
+}
+
+
+
+
+   
+  
+
