@@ -3,12 +3,17 @@
 img { width:300px; }
 h1{
 	font-family: 'Courgette', cursive;
-	color: black; text-align: right;
+	color: black; text-align: center;
+    background: pink
 }
+p{text-indent: left
+}
+
 h3{
 	font-family: 'Great Vibes', cursive; text-align: right;
+    background: grey
 }
-nav{ text-align: center; }
+nav{ text-align: center; background: red
 
 }
 nav{text-align: center;}
@@ -53,3 +58,20 @@ nav{text-align: center;}
  
   color: black;
 
+columns: {
+    background-color: #FFB7CF;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+#left {
+    background-color: #E582A2;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+#right {
+    background-color: #E55B88;
+    border: 1px black solid;
+    padding: 20px;
+}
